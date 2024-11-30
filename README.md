@@ -13,7 +13,7 @@
 -  *[Data Source](#Data_Source)*
   
 
--  *[Tools](#Tools)*
+-  *[Tool](#Tool)*
   
 
 -  *[Data Cleaning/Preparation](#Data_Cleaning/Preparation)*
