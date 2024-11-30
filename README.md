@@ -1,7 +1,7 @@
 # Mintclassics_Portfolio_Project
 
 
-*#### Table of Contents*
+#### Table of Contents
 
 
 ---------------------
