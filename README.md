@@ -7,26 +7,26 @@
 ---------------------
                         
 
-*-  [Project Overview](#Project_Overview)*
+-  *[Project Overview](#Project_Overview)*
   
 
-*-  [Data Source](#Data_Source)*
+-  *[Data Source](#Data_Source)*
   
 
-*-  [Tools](#Tools)*
+-  *[Tools](#Tools)*
   
 
-*-  [Data Cleaning/Preparation](#Data_Cleaning/Preparation)*
+-  *[Data Cleaning/Preparation](#Data_Cleaning/Preparation)*
   
 
-*-  [Exploratory Data Analysis](#Exploration_Data_Analysis)*
+-  *[Exploratory Data Analysis](#Exploration_Data_Analysis)*
   
 
-*-  [Data Analysis](#Data_Analysis)*
+-  *[Data Analysis](#Data_Analysis)*
   
 
-*-  [Results/Findings](#Results/Findings)*
+-  *[Results/Findings](#Results/Findings)*
   
 
-*-  [Recommendations](#Recommendations)*
+-  *[Recommendations](#Recommendations)*
 
